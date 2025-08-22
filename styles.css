@@ -4,7 +4,7 @@ body {
 	color: #333;
 }
 
-header, nav, section, aside, footer {
+header, nav, details, section, aside, footer {
 	padding: 20px;
 	margin: 10px;
     background-color: white;
